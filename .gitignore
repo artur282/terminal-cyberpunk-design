@@ -1,0 +1,47 @@
+# ═══════════════════════════════════════════
+# ARCHIVOS DEL SISTEMA OPERATIVO
+# ═══════════════════════════════════════════
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# ═══════════════════════════════════════════
+# EDITORES E IDES
+# ═══════════════════════════════════════════
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ═══════════════════════════════════════════
+# NODE / NPM (si se usa para desarrollo)
+# ═══════════════════════════════════════════
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ═══════════════════════════════════════════
+# SKILLS AUXILIARES (no son parte de esta skill)
+# ═══════════════════════════════════════════
+.agents/skills/skill-creator/
+
+# ═══════════════════════════════════════════
+# ARCHIVOS TEMPORALES Y LOGS
+# ═══════════════════════════════════════════
+*.log
+tmp/
+temp/
+.cache/
+
+# ═══════════════════════════════════════════
+# LOCK FILES (no relevantes para la skill)
+# ═══════════════════════════════════════════
+skills-lock.json
+
+# ═══════════════════════════════════════════
+# SUBDIRECTORIOS DE PROYECTOS LOCALES
+# ═══════════════════════════════════════════
+ciber/
