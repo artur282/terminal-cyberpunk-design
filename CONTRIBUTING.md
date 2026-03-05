@@ -48,7 +48,7 @@ Be respectful, inclusive, and constructive. We're all here to build cool cyberpu
 
    ```bash
    git clone https://github.com/artur282/terminal-cyberpunk-design.git
-   cd ciberpork-stile
+   cd terminal-cyberpunk-design
    ```
 
 3. **Create a branch** for your changes:
