@@ -47,7 +47,7 @@ Be respectful, inclusive, and constructive. We're all here to build cool cyberpu
 2. **Clone** your fork:
 
    ```bash
-   git clone https://github.com/artur282/ciberpork-stile.git
+   git clone https://github.com/artur282/terminal-cyberpunk-design.git
    cd ciberpork-stile
    ```
 

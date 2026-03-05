@@ -59,7 +59,7 @@ cd your-project
 mkdir -p .agents/skills
 
 # Clone the skill
-git clone https://github.com/artur282/ciberpork-stile.git .agents/skills/terminal-cyberpunk-design
+git clone https://github.com/artur282/terminal-cyberpunk-design.git .agents/skills/terminal-cyberpunk-design
 ```
 
 ### Manual Installation
