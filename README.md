@@ -169,7 +169,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  <sub>Built with 🖤 and phosphor green by <a href="https://github.com/YOUR_USERNAME">CiberPork</a></sub>
+  <sub>Built with 🖤 and phosphor green by <a href="https://github.com/artur282">Artur282</a></sub>
 </p>
 
 <p align="center">
